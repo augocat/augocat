@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## About me
 
+<!-- TO DO: add more details about me later -->
+
 Hi, I'm Grahame. Picture is GitHub's mascot.
 <details open>
 <summary>My top Activites</summary>
@@ -34,3 +36,8 @@ Hi, I'm Grahame. Picture is GitHub's mascot.
 
 
 </details>
+
+-------
+> Make names of days Stand Out.
+
+- Grahame the augocat
